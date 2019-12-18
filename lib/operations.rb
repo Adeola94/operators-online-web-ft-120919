@@ -1,4 +1,5 @@
-def unsafe?(79)
+def unsafe(79)
+  speed = 
 if answer = unsafe(79)
   puts "true"
 else
