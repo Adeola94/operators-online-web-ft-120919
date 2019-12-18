@@ -1,5 +1,5 @@
 def unsafe(79)
-  speed = 
+if  speed > 60
 if answer = unsafe(79)
   puts "true"
 else
