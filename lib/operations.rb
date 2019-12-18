@@ -9,6 +9,6 @@ def unsafe = 79
     end
 
 
-speed = 50
+def speed = 50
 if speed 40 && 60
 end 
